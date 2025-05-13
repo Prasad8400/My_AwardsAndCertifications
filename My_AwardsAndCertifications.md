@@ -7,54 +7,54 @@ This document showcases key certifications and awards I've earned in test automa
 ## 🎓 Certifications
 
 ### ✅ Selenium Java 101 – LambdaTest (2024)
-![Selenium Java 101](My_AwardsAndCertifications/SeleniumJava101.png)
+![Selenium Java 101](SeleniumJava101.png)
 
 ---
 
 ### ✅ Playwright 101 – LambdaTest (2024)
-![Playwright 101](My_AwardsAndCertifications/Playwright101.png)
+![Playwright 101](Playwright101.png)
 
 ---
 
 ### ✅ TestNG Mastery – Core Java Testing
-![TestNG](My_AwardsAndCertifications/TestNG.png)
+![TestNG](TestNG.png)
 
 ---
 
 ### ✅ Test Automation with Java – CL2 Internal Program
-![Test Automation Java CL2](My_AwardsAndCertifications/Test_Autoamtion_Java_CL2.png)
+![Test Automation Java CL2](Test_Autoamtion_Java_CL2.png)
 
 ---
 
 ### ✅ GenAI Foundation Course (2025)
-![GenAI Foundation 2025](My_AwardsAndCertifications/GenAI_FoundationCourse_2025.png)
+![GenAI Foundation 2025](GenAI_FoundationCourse_2025.png)
 
 ---
 
 ### ✅ GenAI-Assisted Coding using Amazon CodeWhisperer (2023)
-![GenAI Amazon](My_AwardsAndCertifications/GenAI_AssistedCoding_UsingAmazonCodeWhisperer_2023.png)
+![GenAI Amazon](GenAI_AssistedCoding_UsingAmazonCodeWhisperer_2023.png)
 
 ---
 
 ## 🏅 Awards
 
 ### 🥇 Bravo Award – 2024
-![Bravo 2024](My_AwardsAndCertifications/BravoAward_2024.jpg)
+![Bravo 2024](BravoAward_2024.jpg)
 
 ---
 
 ### 🥇 Bravo Award – 2025
-![Bravo 2025](My_AwardsAndCertifications/BravoAward_2025.png)
+![Bravo 2025](BravoAward_2025.png)
 
 ---
 
 ### 🥈 Bravo Award – Q3 2024
-![Bravo Q3](My_AwardsAndCertifications/BravoAward_Q3_2024.png)
+![Bravo Q3](BravoAward_Q3_2024.png)
 
 ---
 
 ### 🌟 Top Talent Recognition – 2024
-![Top Talent](My_AwardsAndCertifications/TopTalent_2024.jpg)
+![Top Talent](TopTalent_2024.jpg)
 
 ---
 
