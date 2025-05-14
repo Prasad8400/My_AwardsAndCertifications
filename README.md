@@ -67,7 +67,7 @@ This document showcases key certifications and awards I've earned in test automa
 These achievements reflect:
 
 - Strong fundamentals in **Java-based automation frameworks**
-- Proven knowledge of **Selenium**, **TestNG**, and **Playwright**
+- Proven knowledge of **Selenium**, **TestNG**, **Cucumber**, **Maven**, and **Playwright**
 - Early adoption and practical use of **GenAI tools** like **Amazon CodeWhisperer**
 - Recognition from organizations for excellence and innovation
 
